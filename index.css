@@ -1,0 +1,43 @@
+html {
+    margin: 0;
+    padding: 0;
+    cursor: url(img\cursor.png), auto;
+    background-color: #0F80BF
+}
+
+button {
+    cursor: url(img\hand.png), auto;
+}
+
+@font-face {
+    font-family: "W95fa";
+    src: url("C:\Users\cathill\OneDrive\Desktop\IntMedia\ResearchJournal\fonts\W95FA.otf");
+}
+h0 {
+    color: #F9BEC0;
+    text-align: center;
+    font-family: "W95fa";
+    font-size: 50px;
+}
+h2 {
+    color: #F9BEC0;
+    text-align: center;
+    font-family: "W95fa";
+    font-size: 50px;
+}
+
+p {
+    color: #F9BEC0;
+    text-align: center;
+    font-family: "W95fa";
+    font-size: 25px;
+}
+strong {
+    color: #F9BEC0;
+    text-align: center;
+    font-family: "W95fa";
+    font-size: 70px;
+}
+img {
+    image-orientation: center;
+}
